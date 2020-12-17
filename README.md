@@ -4,7 +4,7 @@ Comparator of two any git repositories
 # How it works
 It works based on gitHub API (https://api.github.com)
 
-#Requirements
+# Requirements
 - Web server
 - installed PHP
 - installed browser
@@ -20,7 +20,7 @@ After processing you will see some info about that repo's:
 - Stars:		
 - Watchers:		
 - Last release:		
-- PR's: /open/closed/declined
+- PR's: open/closed
 
-#Attention
+# Attention
 Application is not broken data safety. Without error handling. 
